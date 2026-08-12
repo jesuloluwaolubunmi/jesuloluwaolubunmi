@@ -11,7 +11,7 @@
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-Python-black?style=flat-square&logo=cpp)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
